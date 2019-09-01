@@ -6,3 +6,5 @@ It is based on the MobileNet model which is trained on the ImageNet dataset. Wit
 
 Since the image classifier is built on TensorflowJS, you done need to install/compile anything. You can just execute the
 index.html, enable the webcam, train and test. 
+
+It can also be testing <a href="https://thevolts.github.io/ML_ImgVideoClassifier/" alt="thevolts image classifier, imagenet, mobilenet">here</a>
